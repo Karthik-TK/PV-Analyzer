@@ -1,5 +1,3 @@
-
-
 //Connect Current Module to Analog Pin A0
 //Connect Voltage Module to Analog Pin A1
 //Connect Temperature Module to Analog Pin A2
