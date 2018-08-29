@@ -40,8 +40,6 @@ The Arduino Voltage sensor of range ≥ 25V, measures the voltage values and the
 3) Current Sensor 
 The Arduino Uno board is connected to the current sensor ACS712, which operates from 5V and the output analog voltage proportional to current measured on the sensing terminals. The current sensor chip is ACS712ELC-5A. The module can measure the positive and negative 30 amps, corresponding to the analog output 66mV/A. Pin 5V power supply, on-board power indicator. Sensing terminal can even measure current for loads operating at high voltages like 230V AC mains while output sensed voltage is isolated from measuring part [14].
 
- 
-
 4) Temperature Sensor
 
 The Temperature sensor LM35, are precision integrated-circuit temperature devices with an output voltage linearly proportional to the Centigrade temperature. The LM35 device has an advantage over linear temperature sensors calibrated in Kelvin, as the user is not required to subtract a large constant voltage from the output to obtain convenient Centigrade scaling. Lower cost is assured by trimming and calibration at the wafer level. The low-output impedance, linear output and precise inherent calibration of the LM35 device makes interfacing to readout or control circuitry especially easy.
